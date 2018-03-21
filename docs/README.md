@@ -1,11 +1,11 @@
 # Bazel and Bagels
 
-> Documenting our journey to using Bazel for our large enterprise Angular/AngularjS application
+> Documenting our journey to using Bazel for our large enterprise Angular/AngularJS application
 
 ## Where did we start
 
 ## Goals
-1. Build Login SPA with bazel (requires myadp/common & espresso)
+1. Build Login SPA with bazel (requires other 2nd party libraries)
 1. Horse race: Repeatedly build the Login SPA on Jenkins - **webpack** vs. **bazel**
 
 ## TODOs
